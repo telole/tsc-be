@@ -427,7 +427,7 @@ ISC
 
 ## 👤 Author
 
-Invoice Generator Backend
+Me Gua
 
 ---
 
