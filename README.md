@@ -427,8 +427,8 @@ ISC
 
 ## 👤 Author
 
-Me Gua
+Me Gua (Galank)
 
 ---
 
-**Last Updated:** December 2024
+**Last Updated:** December 2025
