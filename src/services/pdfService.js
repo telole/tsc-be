@@ -63,3 +63,4 @@ async function generatePDFBuffer(invoiceData) {
 }
 
 module.exports = { generatePDF, generatePDFBuffer };
+  
